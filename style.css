@@ -51,6 +51,7 @@ body {
 
 .content .details {
   margin: 25px 0 20px;
+  text-align: center;
 }
 
 .details p {
