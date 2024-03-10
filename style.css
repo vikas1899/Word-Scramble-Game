@@ -25,7 +25,7 @@ body {
 }
 
 .container h2 {
-  text:center;
+  text-align: center;
   font-size: 28px;
   font-weight: 600;
   padding: 20px 25px;
