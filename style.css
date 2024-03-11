@@ -84,7 +84,7 @@ body {
 .content input:focus {
   border-color: #5372f0;
   background-color: white;
-  color: #bbb;
+  color: black;
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
